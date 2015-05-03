@@ -1,0 +1,17 @@
+<h2 id="title">James' Ember 2 Blog</h2>
+<hr>
+
+  {{outlet}}
+
+<h3>Create a New Post</h3>
+<div>
+    <p>
+      {{input value=post.title placeholder="Title"}}
+    </p>
+    <p>
+      {{textarea value=post.content placeholder="Content"}}
+    </p>
+    <p>
+        <button {{action "createPost"}}>Publish</button>
+    </p>
+</div>
