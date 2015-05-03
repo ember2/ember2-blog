@@ -1,7 +1,10 @@
 # Ember2-blog
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This project is for a very simple Ember 2.0 blog tutorial.
+
+## Demo
+
+https://ember2-blog.firebaseapp.com
 
 ## Prerequisites
 
